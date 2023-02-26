@@ -1,0 +1,21 @@
+.question {
+  padding: 30px 70px;
+  margin-bottom: 20px;
+  background: #440F51 url("../img/open.svg") right 60px bottom 30px / 30px no-repeat;
+}
+
+.question:nth-child(even) {
+  background: #ffffff url("../img/open-purple.svg") right 60px bottom 30px / 30px no-repeat;
+}
+
+.element {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.black-text {
+  color: #000;
+}
+
+
